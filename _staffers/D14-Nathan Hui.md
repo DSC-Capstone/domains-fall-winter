@@ -39,7 +39,7 @@ modality: In-person (will book own room)
 style: |
   We can facilitate mentorship in our facilities (Atkinson Hall). This will occur as part of our research group (regular meetings), with additional oversight under ALERTCalifornia (milestone updates).
 
-seats: 8
+seats: 5
 
 tag: app
 ---
