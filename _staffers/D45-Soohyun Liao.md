@@ -16,6 +16,7 @@ bio: |
   I am specialized in Computer Science (CS) education. I am passionate in conducting CS education research as a means to push for diversity and equity in CS programs. I am currently affiliated with The CSEd Research Lab in University of California at San Diego. Before joining UCSD, which is my PhD alma mater, I worked at Princeton University as teaching faculty.
 
 description: |
-  AI has become a powerful tool for student learning. This capstone domain lets student explore things you can do with AI to facilitate student learning. It could be analyzing already-collected data from a learning management system to understand students’ behaviors; or could be developing a learning assistant tool and evaluating the effectiveness of it. For more information read the following.  https://peer.asee.org/engagement-with-metacognition-promoting-web-based-interventions-and-its-relationship-with-learning-outcomes AND https://dl.acm.org/doi/abs/10.1145/3641555.3705256
-
+  AI has become a powerful tool for student learning. This capstone domain lets student explore things you can do with AI to facilitate student learning. It could be analyzing already-collected data from a learning management system to understand students’ behaviors; or could be developing a learning assistant tool and evaluating the effectiveness of it. For more information, see
+  [Engagement with Metacognition-Promoting Web-Based Interventions](https://peer.asee.org/engagement-with-metacognition-promoting-web-based-interventions-and-its-relationship-with-learning-outcomes)
+  AND [this ACM SIGCSE paper](https://dl.acm.org/doi/abs/10.1145/3641555.3705256).
 ---
