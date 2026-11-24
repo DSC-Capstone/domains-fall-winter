@@ -1,12 +1,12 @@
 ---
 layout: minimal
-title: Domain Descriptions
+title: Domain Descriptions for the Fall-Winter Edition of the Data Science Capstone
 nav_exclude: true
 nav_order: 1
 ---
 
 {: .success }
-[Home page for the Course Web Page for the 2026-27 Edition](https://dsc-capstone.org/2026-27)
+[Home page for the Course Web Page for the 2026-27 Fall-Winter Edition](https://dsc-capstone.org/2026-27)
 
 {: .success }
 ** Read the information at the top of the page, then scroll down to see information about each domain. **
